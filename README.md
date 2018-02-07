@@ -34,5 +34,3 @@ Port Protocol ServiceName  ServiceDescription               Status
   53 tcp      domain       Domain Name Server               open
   80 tcp      http         World Wide Web HTTP              open
 ``` 
-
-Blah Blah
